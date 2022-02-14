@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-02-07T13:45:16+01:00*%
+%TF.ProjectId,Carte_elec_video_tigresse2,43617274-655f-4656-9c65-635f76696465,v1.0*%
+%TF.SameCoordinates,PXa21fe80PY7de2900*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-02-07 13:45:16*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y0D02*
+X29000000Y0D01*
+X0Y29000000D02*
+X0Y0D01*
+X29000000Y29000000D02*
+X0Y29000000D01*
+X29000000Y0D02*
+X29000000Y29000000D01*
+M02*
